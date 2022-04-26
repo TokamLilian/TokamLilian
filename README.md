@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TokamLilian
-- 👀 I’m interested in web programin and design (graphic design)
+- 👀 I’m interested in web programing and design (graphic design)
 - 🌱 I’m currently learning computer sciences
 - 💞️ I’m looking to collaborate on git projects and innovative IT aspects 
 - 📫 How to reach me Discord:ALilian#2442
